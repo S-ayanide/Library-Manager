@@ -102,7 +102,7 @@ Then go ahead and paste you issue table name to -
 	IssueBook.py - line 23
 
 
-### NOTE: Please give all the passwords unique while registering as it fetches data on the basis of password and if more than one password is same it will throw an exception
+##### NOTE: Please give all the passwords unique while registering as it fetches data on the basis of password and if more than one password is same it will throw an exception
 
 ## How to run this
 Running this is as simple as it gets. Follow this steps
