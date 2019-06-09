@@ -20,7 +20,22 @@ Whereas in the Student Portal, they get rights to -
 You can either register as an Employee if you haven't done that yet or else just Login like any other portal, same applies to the Student portal. Once you register yourself you will be added to the serveside database from where your details will be fetched at the time of login.
 
 ## Screenshots
-<img src="images/Capture1.png"
+<img src="images/Capture1.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="images/Capture2.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="images/Capture3.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="images/Capture4.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="images/Capture5.PNG"
+     alt="Home Screen"
+     style="float: left; margin-right: 10px;"
+     width="200"/> <img src="images/Capture6.PNG"
      alt="Home Screen"
      style="float: left; margin-right: 10px;"
      width="200"/> 
