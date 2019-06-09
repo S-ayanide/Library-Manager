@@ -141,4 +141,4 @@ limitations under the License.
 ```
 
 ## Getting Started
-For help getting started with Flutter, view our online [documentation](https://flutter.dev/docs).
+For help getting started with tkinter, view our online [documentation](https://docs.python.org/2/library/tkinter.html).
